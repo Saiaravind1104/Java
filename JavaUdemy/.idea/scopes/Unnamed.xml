@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Unnamed" pattern="lib:*..*||file[JavaUdemy]:*||file[JavaUdemy]:src/Com/House/*" />
+</component>
